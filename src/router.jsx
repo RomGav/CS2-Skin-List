@@ -37,7 +37,7 @@ import Talon from "./pages/weapon-sub-pages/Knives/Talon";
 import Ursus from "./pages/weapon-sub-pages/Knives/Ursus";
 import Smgs from "./pages/weapon-grid-page/Smgs";
 import Mac10 from "./pages/weapon-sub-pages/SMGs/Mac10";
-import Mp5 from "./pages/weapon-sub-pages/SMGs/mP5";
+import Mp5 from "./pages/weapon-sub-pages/SMGs/Mp5";
 import Mp7 from "./pages/weapon-sub-pages/SMGs/Mp7";
 import Mp9 from "./pages/weapon-sub-pages/SMGs/Mp9";
 import P90 from "./pages/weapon-sub-pages/SMGs/P90";
